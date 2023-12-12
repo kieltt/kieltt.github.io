@@ -168,13 +168,13 @@ footer a {
 }
 
 #traits h2 {
-    margin-bottom: 1rem;
+    margin-bottom: 3rem;
 }
 
 .traits {
-    width: 50%;
+    width: 40%;
     display: inline-block;
-    padding: 0 1rem;
+    padding: 0 2rem;
     text-align: center;
 }
 
